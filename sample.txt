@@ -1,2 +1,3 @@
 one line added
 second line added for merge conflict
+third record from master branch
