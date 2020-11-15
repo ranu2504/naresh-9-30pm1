@@ -1,3 +1,5 @@
 one line added
 second line added for merge conflict
 third record from master branch
+third line added from feature-2
+
