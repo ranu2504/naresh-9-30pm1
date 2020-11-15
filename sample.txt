@@ -1,2 +1,4 @@
 one line added
 second line added for merge conflict
+third line added from feature-2
+
