@@ -1,0 +1,7 @@
+one line added
+second line added from feature-1
+<<<<<<< HEAD
+third line from master
+=======
+third line from feature-2
+>>>>>>> feature-2
