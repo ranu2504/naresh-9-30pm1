@@ -4,3 +4,4 @@ third line
 new line added
 fifth line added
 sixth line aded
+7th line aded from feature
